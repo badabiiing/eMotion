@@ -1,0 +1,45 @@
+<resources>
+    <string name="app_name">eMotion</string>
+    <string name="action_settings">Settings</string>
+
+    <string name="add_camera">New Camera</string>
+    <string name="edit_camera">Edit Camera</string>
+    <string name="camera_marked_closed">Camera marked closed</string>
+    <string name="camera_marked_active">Camera marked active</string>
+    <string name="loading_cameras_error">Error while loading cameras</string>
+    <string name="closed_cameras_cleared">Closed cameras cleared</string>
+    <string name="menu_filter">Filter</string>
+    <string name="menu_clear">Clear closed</string>
+    <string name="menu_delete_camera">Delete camera</string>
+    <string name="navigation_view_header_title">Cameras</string>
+    <string name="title_hint">Title</string>
+    <string name="description_hint">Enter your Camera here.</string>
+    <string name="empty_camera_message">Cameras cannot be empty</string>
+    <string name="successfully_saved_camera_message">Camera saved</string>
+    <string name="list_title">Camera List</string>
+    <string name="statistics_title">Statistics</string>
+    <string name="statistics_no_cameras">You have no cameras.</string>
+    <string name="statistics_active_cameras">Active cameras:</string>
+    <string name="statistics_closed_cameras">Closed cameras:</string>
+    <string name="statistics_error">Error loading statistics.</string>
+    <string name="no_data">No data</string>
+    <string name="loading">LOADING</string>
+
+    <string-array name="list_cameras_array">
+        <item>@string/nav_all</item>
+        <item>@string/nav_active</item>
+        <item>@string/nav_closed</item>
+    </string-array>
+    <string name="nav_all">All</string>
+    <string name="nav_active">Active</string>
+    <string name="nav_closed">Closed</string>
+    <string name="label_all">All Cameras</string>
+    <string name="label_active">Active Cameras</string>
+    <string name="label_closed">Closed Cameras</string>
+    <string name="no_camera_all">You have no Camera!</string>
+    <string name="no_camera_active">You have no active Camera!</string>
+    <string name="no_camera_closed">You have no closed Camera!</string>
+    <string name="no_camera_add">Add a Camera item +</string>
+    <string name="refresh">Refresh</string>
+
+</resources>
